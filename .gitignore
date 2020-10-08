@@ -1,7 +1,5 @@
-**/.env.d
-
-# Specifies intentionally untracked files to ignore when using Git
-# http://git-scm.com/docs/gitignore
+**/.autoenv.d
+**/.autoenv
 
 *~
 *.sw[mnpcod]
@@ -34,8 +32,4 @@ $RECYCLE.BIN/
 .DS_Store
 Thumbs.db
 UserInterfaceState.xcuserstate
-
-.env
-**/.env.d
-**/.env
 
